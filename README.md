@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Lightsheet Microscopy
+- Head of Practical Work - Biomedical Signal and Image Processing
+- How to reach me: francisco.tassara0@gmail.com
 
 <!--
 **FranTassara/FranTassara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
